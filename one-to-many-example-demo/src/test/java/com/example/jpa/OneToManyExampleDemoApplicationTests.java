@@ -1,4 +1,4 @@
-package com.fun.hobby;
+package com.example.jpa;
 
 import org.junit.Ignore;
 import org.junit.Test;
@@ -8,11 +8,11 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class HobbyApplicationTests {
+public class OneToManyExampleDemoApplicationTests {
 
-    @Ignore
-    @Test
-    public void contextLoads() {
-    }
+	@Ignore
+	@Test
+	public void contextLoads() {
+	}
 
 }
